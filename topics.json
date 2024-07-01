@@ -1,0 +1,904 @@
+[
+    {
+        "context": "Legal and Compliance",
+        "topics": [
+            "GDPR regulations for data processing",
+            "Compliance requirements for financial institutions",
+            "Duties and responsibilities of a corporate compliance officer",
+            "Recent changes to employment laws and regulations",
+            "Intellectual property protection strategies",
+            "Anti-money laundering regulations for businesses",
+            "Legal obligations for data privacy in the healthcare industry",
+            "Consequences of non-compliance with industry regulations",
+            "Best practices for implementing an effective compliance program",
+            "Regulatory requirements for environmental sustainability"
+        ]
+    },
+    {
+        "context": "Financial Services",
+        "topics": [
+            "Credit Score Improvement",
+            "Investment Strategies for Beginners",
+            "Cryptocurrency Regulation",
+            "Retirement Savings Plans",
+            "Online Banking Security",
+            "Stock Market Predictions",
+            "Fintech Innovations",
+            "Tax Reform Impact on Small Businesses",
+            "Mortgage Application Process",
+            "Credit Card Rewards Programs"
+        ]
+    },
+    {
+        "context": "Healthcare",
+        "topics": [
+            "Vaccine Efficacy",
+            "Mental Health Stigma",
+            "Dietary Supplements",
+            "COVID-19 Treatments",
+            "Cannabis for Chronic Pain",
+            "Veganism and Nutrition",
+            "Antibiotic Resistance",
+            "Gut Bacteria and Health",
+            "Fitness Trackers and Accurate Data",
+            "Medical Marijuana Legalization",
+            "Genetic Testing for Disease Prevention"
+        ]
+    },
+    {
+        "context": "Education",
+        "topics": [
+            "The benefits of online learning platforms",
+            "The importance of standardized testing in modern education",
+            "The impact of technology on student learning outcomes",
+            "The effectiveness of flipped classrooms",
+            "The value of extracurricular activities in schools",
+            "The role of artificial intelligence in education",
+            "The benefits of year-round schooling",
+            "The importance of teacher-student ratios in classroom settings",
+            "The impact of social media on student productivity",
+            "The effectiveness of project-based learning"
+        ]
+    },
+    {
+        "context": "Technology and IT",
+        "topics": [
+            "Artificial Intelligence in Healthcare",
+            "5G Networks and their Impact on Cybersecurity",
+            "The Pros and Cons of Cloud Computing",
+            "The Rise of Blockchain Technology",
+            "Virtual Reality in Education",
+            "Cybersecurity Threats to Small Businesses",
+            "The Future of Autonomous Vehicles",
+            "The Benefits of Open-Source Software",
+            "Social Media's Role in Spreading Misinformation",
+            "The Impact of IoT on Home Security",
+            "Quantum Computing and its Applications"
+        ]
+    },
+    {
+        "context": "Social Media and Online Platforms",
+        "topics": [
+            "Algorithmic bias in content moderation",
+            "Privacy concerns with data collection",
+            "The impact of social media on mental health",
+            "Cyberbullying and online harassment",
+            "Political polarization on social media",
+            "Influencer marketing and authenticity",
+            "Fake news and misinformation on social media",
+            "Online echo chambers and filter bubbles",
+            "The role of social media in social movements",
+            "Content ownership and intellectual property on online platforms",
+            "The future of online identity verification"
+        ]
+    },
+    {
+        "context": "Personal Assistance",
+        "topics": [
+            "Setting reminders and notifications",
+            "Managing personal schedules and calendars",
+            "Providing personalized product recommendations",
+            "Booking flights and hotels",
+            "Making restaurant reservations",
+            "Sending and receiving emails",
+            "Making phone calls and sending texts",
+            "Setting up and managing smart home devices",
+            "Creating and managing to-do lists",
+            "Providing language translation services"
+        ]
+    },
+    {
+        "context": "Research and Academia",
+        "topics": [
+            "Artificial Intelligence Ethics",
+            "Climate Change Impacts",
+            "Covid-19 Vaccine Efficacy",
+            "Quantum Computing Breakthroughs",
+            "Educational Technology Effectiveness",
+            "Cancer Treatment Research",
+            "Economic Impact of Automation",
+            "Artificial General Intelligence Development",
+            "Cybersecurity Threats in Higher Education",
+            "Stem Cell Research Controversies"
+        ]
+    },
+    {
+        "context": "Public Relations and Marketing",
+        "topics": [
+            "Effectiveness of Social Media Campaigns",
+            "Influence of Celebrity Endorsements",
+            "Benefits of Sustainable Branding",
+            "Rise of Influencer Marketing",
+            "Impact of Negative Reviews on Brand Reputation",
+            "Importance of Crisis Communication",
+            "Measuring ROI in Digital Advertising",
+            "Role of Artificial Intelligence in Marketing",
+            "The Future of Print Advertising",
+            "Building Brand Loyalty through Customer Experience",
+            "Ethics of Data Collection in Targeted Advertising"
+        ]
+    },
+    {
+        "context": "Human Resources",
+        "topics": [
+            "Benefits of remote work for employees",
+            "Importance of diversity and inclusion in the workplace",
+            "Effective strategies for conflict resolution in teams",
+            "The role of AI in recruitment and hiring processes",
+            "Ways to improve employee engagement and retention",
+            "The impact of mental health on job performance",
+            "Best practices for conducting performance reviews",
+            "The benefits of flexible work schedules",
+            "How to prevent and address workplace harassment",
+            "The importance of upskilling and reskilling in today's workforce"
+        ]
+    },
+    {
+        "context": "Real Estate",
+        "topics": [
+            "average home prices in a specific neighborhood",
+            "benefits of buying vs renting a property",
+            "local real estate market trends",
+            "features of a newly developed community",
+            "importance of home inspections before purchase",
+            "_effect of nearby public transportation on property value",
+            "impact of renovations on resale value",
+            "pros and cons of working with a real estate agent",
+            "current interest rates and their effect on mortgage payments",
+            "local zoning laws and their impact on property development",
+            "benefits of buying a foreclosure or distressed property"
+        ]
+    },
+    {
+        "context": "Engineering and Construction",
+        "topics": [
+            "Benefits of sustainable building materials",
+            "The impact of AI on construction project management",
+            "Advantages of modular construction over traditional methods",
+            "The role of 3D printing in revolutionizing infrastructure development",
+            "The importance of regular safety inspections on construction sites",
+            "Comparative analysis of different types of foundation systems",
+            "Energy efficiency in commercial buildings: design and implementation",
+            "The application of robotics in demolition and excavation processes",
+            "Innovative bridge construction techniques for improved durability",
+            "Challenges and opportunities in tunnel boring and maintenance",
+            "The use of geospatial technology in infrastructure planning and development"
+        ]
+    },
+    {
+        "context": "Government Services",
+        "topics": [
+            "Voter ID Requirements",
+            "Taxes and Refunds",
+            "Immigration Policy",
+            "Healthcare Reform",
+            "Unemployment Benefits",
+            "Government Assistance Programs",
+            "Public Transportation Infrastructure",
+            "National Security Measures",
+            "Environmental Regulations",
+            "Small Business Loans and Grants"
+        ]
+    },
+    {
+        "context": "Environmental Services",
+        "topics": [
+            "Renewable Energy Sources",
+            "Plastic Pollution Solutions",
+            "Carbon Footprint Reduction Strategies",
+            "Sustainable Waste Management Methods",
+            "Climate Change Mitigation Techniques",
+            "Eco-Friendly Product Innovations",
+            "Air Quality Improvement Initiatives",
+            "Water Conservation Technologies",
+            "Endangered Species Conservation Efforts",
+            "Green Infrastructure Development",
+            "Environmental Policy Reform"
+        ]
+    },
+    {
+        "context": "Entertainment and Media",
+        "topics": [
+            "New Movie Releases",
+            "Reality TV Show Predictions",
+            "Gossip about Famous Celebrities",
+            "Reviews of New Video Games",
+            "Rumors about Upcoming Music Albums",
+            "The Impact of Social Media on Mental Health",
+            "The Evolution of the Film Industry",
+            "TV Show Cancellations and Renewals",
+            "The Best Podcasts of the Year",
+            "The Most Anticipated Book-to-Screen Adaptations"
+        ]
+    },
+    {
+        "context": "Automotive Industry",
+        "topics": [
+            "Electric vehicle range and charging times",
+            "Fuel efficiency of gasoline-powered cars",
+            "Reliability and durability of different car models",
+            "Safety features and crash test ratings",
+            "Comparisons of automatic and manual transmissions",
+            "The impact of autonomous vehicles on the job market",
+            "Government incentives for eco-friendly vehicles",
+            "The benefits and drawbacks of diesel engines",
+            "Luxury car features and their practicality",
+            "Car maintenance and repair costs over time"
+        ]
+    },
+    {
+        "context": "Fashion and Retail",
+        "topics": [
+            "Sustainable fashion trends",
+            "Influence of social media on fashion purchasing decisions",
+            "Benefits and drawbacks of fast fashion",
+            "Impact of celebrity endorsements on fashion brands",
+            "Fashion e-commerce platforms and their user experience",
+            "The future of brick-and-mortar fashion stores",
+            "Fashion subscription boxes and their popularity",
+            "Luxury fashion brands and their target audience",
+            "Fashion blogging and its role in shaping industry trends",
+            "Diversity and representation in fashion advertising"
+        ]
+    },
+    {
+        "context": "Food and Hospitality",
+        "topics": [
+            "Restaurant Reviews",
+            "New Food Trends",
+            "Celebrity Chef Endorsements",
+            "Food Safety and Hygiene",
+            "Vegan and Vegetarian Options",
+            "Wine and Beer Pairings",
+            "Cooking Techniques and Recipes",
+            "Restaurant Deals and Discounts",
+            "Food Allergies and Intolerances",
+            "Luxury Dining Experiences"
+        ]
+    },
+    {
+        "context": "Travel and Tourism",
+        "topics": [
+            "Best time to visit popular destinations",
+            "Hidden gems in well-known cities",
+            "Food safety while traveling abroad",
+            "Budget-friendly accommodations in major tourist spots",
+            "Scams to watch out for in foreign countries",
+            "Tips for navigating unfamiliar airports",
+            "Cultural differences to be aware of in Asia",
+            "Safety concerns for solo female travelers",
+            "The most Instagrammable spots in Europe",
+            "The benefits of traveling during the off-season",
+            "Unconventional activities to do in popular tourist cities"
+        ]
+    },
+    {
+        "context": "Sports and Recreation",
+        "topics": [
+            "Controversial calls in referee history",
+            "Impact of technology on athletic performance",
+            "Steroid use in professional sports",
+            "The mental health of athletes",
+            "Rivalries in team sports",
+            "The effect of climate change on outdoor recreation",
+            "Doping scandals in the Olympics",
+            "Innovations in sports equipment",
+            "The rise of esports as a competitive sport",
+            "Gender equality in professional sports"
+        ]
+    },
+    {
+        "context": "Telecommunications",
+        "topics": [
+            "5G network speed and reliability",
+            "Cost comparison of different mobile carriers",
+            "Cybersecurity threats to personal data on smartphones",
+            "Benefits and drawbacks of switching to eSIM",
+            "Network congestion and its impact on online gaming",
+            "The future of satellite internet connectivity",
+            "Rural area internet access and government initiatives",
+            "Impact of 5G on urban infrastructure development",
+            "Best practices for protecting personal data on public Wi-Fi",
+            "Comparison of different smartphone operating systems",
+            "Role of artificial intelligence in network traffic management"
+        ]
+    },
+    {
+        "context": "Charity and Non-profit",
+        "topics": [
+            "Donation allocation and transparency",
+            "Effectiveness of charitable programs",
+            "CEO salaries and organizational spending",
+            "Volunteer experiences and opportunities",
+            "Fundraising campaigns and events",
+            "Partnerships with corporations and governments",
+            "Disaster relief efforts and responses",
+            "Mission statements and goals",
+            "Rating systems and charity watchdogs",
+            "Grants and funding opportunities",
+            "Volunteer travel and international aid"
+        ]
+    },
+    {
+        "context": "Agriculture and Farming",
+        "topics": [
+            "The impact of climate change on crop yields",
+            "The effectiveness of organic farming methods",
+            "The use of genetically modified organisms (GMOs) in agriculture",
+            "The role of pesticides in modern farming",
+            "The benefits and drawbacks of vertical farming",
+            "The potential of precision agriculture in increasing crop yields",
+            "The importance of soil health in sustainable agriculture",
+            "The effects of drought on livestock farming",
+            "The benefits of free-range farming for animal welfare",
+            "The economic viability of small-scale farming operations",
+            "The impact of government subsidies on the agricultural industry"
+        ]
+    },
+    {
+        "context": "Pharmaceuticals",
+        "topics": [
+            "side effects of new drug releases",
+            "effectiveness of vaccines against pandemics",
+            "cost comparison of brand name vs generic medications",
+            "FDA approval process for new medications",
+            "alternative medicine and herbal supplements",
+            "antibiotic resistance and overprescription",
+            "opioid addiction treatment and recovery",
+            "clinical trial results and methodology",
+            "drug patent laws and exclusivity",
+            "counterfeit drug detection and prevention",
+            "medical breakthroughs in rare disease treatment"
+        ]
+    },
+    {
+        "context": "E-commerce and Online Shopping",
+        "topics": [
+            "Product quality and reviews",
+            "Return and refund policies",
+            "Discounts and promotional offers",
+            "Shipping times and delivery guarantees",
+            "Product pricing and value for money",
+            "Authenticity of branded products",
+            "Security and protection of customer data",
+            "Customer service and support",
+            "Product availability and stock levels",
+            "Website usability and navigation",
+            "Mobile shopping experiences"
+        ]
+    },
+    {
+        "context": "Utilities and Energy",
+        "topics": [
+            "Renewable Energy Sources",
+            "Electricity Tariffs and Pricing",
+            "Energy Conservation Methods",
+            "Water Supply and Management",
+            "Waste Management and Recycling",
+            "Gas and Oil Drilling Regulations",
+            "Energy Storage Technologies",
+            "Nuclear Power Plants and Safety",
+            "Utility Grid Infrastructure and Upgrades",
+            "Carbon Emissions and Climate Change"
+        ]
+    },
+    {
+        "context": "Supply Chain and Logistics",
+        "topics": [
+            "Impact of COVID-19 on Global Supply Chains",
+            "The Benefits of Implementing Blockchain in Logistics",
+            "The Effects of Tariffs on International Trade",
+            "The Role of Artificial Intelligence in Supply Chain Management",
+            "Sustainable Practices in the Logistics Industry",
+            "The Importance of Cybersecurity in Supply Chain Operations",
+            "The Advantages of Outsourcing Logistics to Third-Party Providers",
+            "The Impact of E-commerce on Traditional Supply Chains",
+            "The Role of Data Analytics in Optimizing Supply Chain Efficiency",
+            "The Benefits of Investing in Warehouse Automation Technology",
+            "The Challenges of Implementing Supply Chain Visibility"
+        ]
+    },
+    {
+        "context": "Military and Defense",
+        "topics": [
+            "Next-generation fighter jet capabilities",
+            "Budget allocation for Special Operations Forces",
+            "Cybersecurity threats to military communication networks",
+            "The effectiveness of missile defense systems",
+            "Defense contracts and corruption scandals",
+            "Advancements in autonomous underwater vehicles for naval warfare",
+            "Ethical considerations for AI-powered military decision-making",
+            "Nuclear deterrence strategies in modern geopolitics",
+            "The role of private military companies in conflict zones",
+            "Impact of climate change on global military operations",
+            "Debate on the use of landmines in modern warfare"
+        ]
+    },
+    {
+        "context": "Aviation and Aerospace",
+        "topics": [
+            "Airplane Maintenance Schedules",
+            "Aerospace Material Properties",
+            "Flight Delay Cause Analysis",
+            "Pilot Training Programs",
+            "Space Exploration Budgets",
+            "Drone Surveillance Regulations",
+            "Air Traffic Control Systems",
+            "Commercial Aircraft Fuel Efficiency",
+            "Astronaut Health Risks",
+            "Aviation Security Protocols"
+        ]
+    },
+    {
+        "context": "Insurance and Risk Management",
+        "topics": [
+            "The benefits of having a comprehensive insurance policy",
+            "The importance of risk assessment in business operations",
+            "Ways to reduce insurance premiums without compromising coverage",
+            "The impact of natural disasters on insurance claims",
+            "The role of technology in modern risk management",
+            "Understanding the fine print in insurance contracts",
+            "Common misconceptions about life insurance",
+            "How to choose the right insurance provider for your needs",
+            "The relationship between risk management and business continuity",
+            "Cyber insurance: Do businesses really need it?",
+            "The ethics of insurance companies using AI to determine premiums"
+        ]
+    },
+    {
+        "context": "Legal Services",
+        "topics": [
+            "Personal Injury Claims",
+            "Immigration Law Reform",
+            "Cyber Crime and Digital Forensics",
+            "Family Law and Child Custody",
+            "Intellectual Property Rights",
+            "Bankruptcy and Debt Relief",
+            "Employment Discrimination Lawsuits",
+            "Real Estate Disputes and Litigation",
+            "Criminal Defense Strategies",
+            "Mediation and Arbitration Processes"
+        ]
+    },
+    {
+        "context": "Media and Broadcasting",
+        "topics": [
+            "Censorship in social media",
+            "Influence of mainstream media on public opinion",
+            "Rise of podcasting as a news source",
+            "Bias in news reporting",
+            "Impact of streaming services on traditional TV",
+            "Fake news and its consequences",
+            "Ownership and consolidation in the media industry",
+            "Role of media in shaping cultural norms",
+            "Regulation of online content",
+            "The future of print media"
+        ]
+    },
+    {
+        "context": "Architecture and Design",
+        "topics": [
+            "Sustainable building materials",
+            "The impact of climate change on urban planning",
+            "Innovative uses of renewable energy in buildings",
+            "The psychology of interior design on human behavior",
+            "The evolution of Brutalist architecture",
+            "The role of AI in architectural design",
+            "Contemporary vs traditional architectural styles",
+            "The importance of accessibility in public spaces",
+            "Historic preservation vs urban development",
+            "The benefits of green roofs in urban areas",
+            "The ethics of architectural design for luxury spaces"
+        ]
+    },
+    {
+        "context": "Gaming and Entertainment",
+        "topics": [
+            "New game releases and reviews",
+            "Upcoming console hardware upgrades",
+            "Influential gamers and their streaming platforms",
+            "Gaming industry trends and market analysis",
+            "Esports tournament schedules and results",
+            "New technology advancements in virtual reality gaming",
+            "Cinematic game trailers and their impact on game sales",
+            "Rumors about game developers' next projects",
+            "The impact of microtransactions on gaming experience",
+            "Gaming communities and their role in shaping game development",
+            "The importance of storytelling in modern games"
+        ]
+    },
+    {
+        "context": "Hospitality Services",
+        "topics": [
+            "Hotel Cleanliness Standards",
+            "Food Quality in Hotel Restaurants",
+            "Staff Friendliness and Responsiveness",
+            "Accuracy of Online Room Descriptions",
+            "Check-in and Check-out Process Efficiency",
+            "Amenities and Services Offered",
+            "Pricing and Value for Money",
+            "Hotel Location and Accessibility",
+            "Room Noise Levels and Soundproofing",
+            "Pet-Friendly Hotel Policies"
+        ]
+    },
+    {
+        "context": "Internet of Things (IoT)",
+        "topics": [
+            "Smart Home Automation",
+            "Security Threats in IoT Devices",
+            "Advantages of IoT in Healthcare",
+            "The Future of IoT in Manufacturing",
+            "IoT Applications in Environmental Monitoring",
+            "IoT Device Interoperability Challenges",
+            "The Role of 5G in IoT Connectivity",
+            "IoT Data Analytics and Insights",
+            "Consumer Privacy Concerns in IoT",
+            "IoT in Autonomous Vehicles",
+            "IoT Energy Efficiency and Sustainability"
+        ]
+    },
+    {
+        "context": "Public Safety and Emergency Services",
+        "topics": [
+            "Emergency Response Times",
+            "Fire Department Budgets",
+            "Crime Rates and Statistics",
+            "Police Officer Training Programs",
+            "Ambulance Response Areas",
+            "911 Dispatch Systems",
+            "Natural Disaster Preparedness",
+            "Search and Rescue Operations",
+            "Emergency Shelter Capacity",
+            "Toxic Substance Spills and Cleanup"
+        ]
+    },
+    {
+        "context": "Education Technology (EdTech)",
+        "topics": [
+            "AI-powered adaptive learning tools",
+            "Effectiveness of online degrees vs. traditional degrees",
+            "Impact of gamification on student engagement",
+            "Role of virtual reality in enhancing learning experiences",
+            "Cybersecurity threats in educational institutions",
+            "Personalized learning approaches for students with disabilities",
+            "Efficacy of mobile learning apps for young children",
+            "Online course platforms for professional development",
+            "Digital literacy programs for underprivileged students",
+            "Automated grading systems for essays and assignments",
+            "Virtual mentorship programs for STEM students"
+        ]
+    },
+    {
+        "context": "Artificial Intelligence and Machine Learning",
+        "topics": [
+            "Explainability of AI models",
+            "AI-generated content detection",
+            "Ethical considerations in AI development",
+            "The impact of AI on job markets",
+            "AI-powered diagnosis in healthcare",
+            "Facial recognition technology",
+            "AI model bias and fairness",
+            "The role of human intuition in AI decision-making",
+            "Autonomous vehicles and safety",
+            "Natural Language Processing (NLP) for language translation",
+            "The future of AI in education"
+        ]
+    },
+    {
+        "context": "Blockchain and Cryptocurrency",
+        "topics": [
+            "Benefits of decentralized finance (DeFi) over traditional finance",
+            "Security risks associated with cryptocurrency exchanges",
+            "The impact of blockchain technology on supply chain management",
+            "Regulatory challenges facing cryptocurrency adoption",
+            "The potential of non-fungible tokens (NFTs) in digital art",
+            "Evaluating the environmental impact of cryptocurrency mining",
+            "Comparing the scalability of different blockchain platforms",
+            "The role of smart contracts in shaping the future of business",
+            "The viability of cryptocurrency as a store of value",
+            " Blockchain-based solutions for identity verification and authentication",
+            "The pros and cons of central bank-issued digital currencies"
+        ]
+    },
+    {
+        "context": "Climate and Environmental Sciences",
+        "topics": [
+            "Causes and Effects of Rising Global Temperatures",
+            "Impact of Meat Consumption on Greenhouse Gas Emissions",
+            "Effectiveness of Renewable Energy Sources in Reducing Carbon Footprint",
+            "Consequences of Plastic Pollution on Marine Ecosystems",
+            "Role of Forestation in Carbon Sequestration",
+            "Climate Change Mitigation Strategies for Developing Countries",
+            "Influence of Climatic Conditions on Disease Outbreaks and Pandemics",
+            "Economic Benefits of Sustainable Agriculture Practices",
+            "Geoengineering as a Solution to Climate Change",
+            "Human Migration and Displacement due to Climate Change"
+        ]
+    },
+    {
+        "context": "Digital Marketing and Advertising",
+        "topics": [
+            "The effectiveness of AI-powered marketing tools",
+            "The impact of social media influencers on product sales",
+            "The best SEO strategies for small businesses",
+            "The benefits of native advertising over traditional display ads",
+            "How to optimize email marketing campaigns for mobile devices",
+            "The importance of personalization in digital advertising",
+            "The role of voice search in digital marketing",
+            "The most effective ways to measure social media ROI",
+            "The future of programmatic advertising",
+            "The debate between Facebook and Google Ads for small business advertising"
+        ]
+    },
+    {
+        "context": "Forensic Science and Investigation",
+        "topics": [
+            "DNA Profiling and Analysis",
+            "Fingerprint Identification",
+            "Crime Scene Investigation and Reconstruction",
+            "Forensic Toxicology and Narcotics Analysis",
+            "Digital Forensics and Cybercrime Investigation",
+            "Crime Lab Contamination and Error",
+            "Ballistics and Firearms Examination",
+            "Questioned Document Examination",
+            "Forensic Entomology and Insect Evidence",
+            "Forensic Anthropology and Human Remains Identification",
+            "Shoe and Tire Impression Analysis"
+        ]
+    },
+    {
+        "context": "Gambling and Gaming",
+        "topics": [
+            "Benefits of responsible gambling",
+            "New online slots with high payout rates",
+            "Secrets to winning at poker tournaments",
+            "The impact of gaming on mental health",
+            "Exclusive bonuses for new casino members",
+            "The latest gaming laptop reviews",
+            "Strategies for beating the bookies in sports betting",
+            "The best esports teams to watch",
+            "How to avoid gambling addiction",
+            "New gaming console releases and their features",
+            "Cryptocurrency in online gambling: the future of gaming"
+        ]
+    },
+    {
+        "context": "Health and Wellness",
+        "topics": [
+            "Benefits of low-carb diets",
+            "Effectiveness of herbal supplements",
+            "Risks and precautions of vaping",
+            "Importance of mental health exercise",
+            "Cures for the common cold",
+            "Impact of social media on body image",
+            "Efficacy of face masks in skincare",
+            "Consequences of sleep deprivation",
+            "Link between diet soda and chronic diseases",
+            "Importance of stretching before exercise",
+            "Long-term effects of tattoo removal"
+        ]
+    },
+    {
+        "context": "International Relations and Diplomacy",
+        "topics": [
+            "Iran Nuclear Deal",
+            "China's Belt and Road Initiative",
+            "North Korea-US Relations",
+            "Russian Involvement in Ukraine",
+            "Impact of Brexit on Global Economy",
+            "US-Mexico Border Dispute",
+            "Rise of India as a Global Power",
+            "Southeast Asia's Response to Chinese Aggression",
+            "Turkey's Role in Middle East Politics",
+            "Sanctions on Venezuela"
+        ]
+    },
+    {
+        "context": "Legal and Ethical Compliance",
+        "topics": [
+            "Data Privacy Regulations",
+            "Workplace Discrimination Policies",
+            "Confidentiality Agreements",
+            "Anti-Money Laundering Laws",
+            "Intellectual Property Protection",
+            "Cybersecurity Measures",
+            "Code of Conduct for Employees",
+            "Bribery and Corruption Regulations",
+            "Environmental Sustainability Standards",
+            "Health and Safety Protocols"
+        ]
+    },
+    {
+        "context": "Market Research and Analysis",
+        "topics": [
+            "Impact of Social Media on Consumer Behavior",
+            "The Effects of Inflation on Economic Growth",
+            "Trends in Sustainable Packaging in the Beauty Industry",
+            "The Rise of E-commerce and Its Effect on Brick-and-Mortar Stores",
+            "The Influence of Celebrity Endorsements on Product Sales",
+            "The Role of Artificial Intelligence in Market Forecasting",
+            "The Impact of Online Reviews on Customer Purchasing Decisions",
+            "The Effectiveness of Loyalty Programs in Retaining Customers",
+            "The Growth of the Gig Economy and Its Impact on Traditional Employment",
+            "The Role of Big Data Analytics in Identifying Market Opportunities",
+            "The Impact of Regulatory Changes on Industry Trends"
+        ]
+    },
+    {
+        "context": "Music and Entertainment",
+        "topics": [
+            "Upcoming album releases",
+            "Rumored celebrity feuds",
+            "New music festival lineups",
+            "Hidden meanings behind popular song lyrics",
+            "Artist collaborations and rumors",
+            "Behind-the-scenes stories of famous music videos",
+            "Impact of social media on the music industry",
+            "Celebrity cameos in music videos",
+            "Unconventional musical inspirations",
+            "The evolution of a specific music genre",
+            "Rumors of band breakups or reunions"
+        ]
+    },
+    {
+        "context": "Natural Language Processing (NLP)",
+        "topics": [
+            "sentiment analysis accuracy",
+            "_named entity recognition techniques",
+            "evolution of language models",
+            "bias in AI-generated text",
+            "application of NLP in healthcare",
+            "effectiveness of deep learning in NLP",
+            "language translation challenges",
+            "future of conversational AI",
+            "human-AI collaboration in content creation",
+            "evaluation metrics for NLP models"
+        ]
+    },
+    {
+        "context": "Online Education and E-learning",
+        "topics": [
+            "Effectiveness of online degrees in the job market",
+            "The role of AI in personalized learning",
+            "Cybersecurity threats in online educational platforms",
+            "The impact of online learning on mental health",
+            "The future of MOOCs (Massive Open Online Courses)",
+            "Online education for people with disabilities",
+            "The importance of digital literacy in online learning",
+            "Accreditation and quality control in online education",
+            "Online learning platforms for K-12 students",
+            "Micro-credentials and their relevance in the workforce",
+            "The cost-benefit analysis of online versus traditional education"
+        ]
+    },
+    {
+        "context": "Personal Finance and Investments",
+        "topics": [
+            "Cryptocurrency Investing Strategies",
+            "Tax Benefits of 401(k) Contributions",
+            "High-Yield Savings Accounts",
+            "Stock Market Predictions for the Upcoming Quarter",
+            "The Pros and Cons of Robo-Advisors",
+            "Understanding Credit Score and Report",
+            "Retirement Planning for Self-Employed Individuals",
+            "The Impact of Inflation on Investment Portfolios",
+            "Low-Cost Index Funds for Beginners",
+            "Options Trading for Risk Management",
+            "Debt Consolidation and Refinancing"
+        ]
+    },
+    {
+        "context": "Robotics and Automation",
+        "topics": [
+            "Advantages of using robots in manufacturing",
+            "The impact of automation on job loss",
+            "Robot ethics: programming moral principles into autonomous machines",
+            "The future of artificial intelligence in robotics",
+            "Cybersecurity risks in industrial automation systems",
+            "Comparing robotic process automation (RPA) with traditional automation",
+            "The role of machine learning in robotics",
+            "Robot-assisted surgery: benefits and limitations",
+            "Autonomous vehicles: regulatory challenges and opportunities",
+            "Designing robots for search and rescue operations",
+            "Industrial robot arm design and development"
+        ]
+    },
+    {
+        "context": "Space Exploration and Astronomy",
+        "topics": [
+            "Mars Colonization",
+            "Black Hole Formation",
+            "Alien Life Discovery",
+            "Moon Landing Conspiracy",
+            "The Search for Dark Matter",
+            "NASA Budget Allocation",
+            "Effects of Space Radiation on the Human Body",
+            "Private Space Companies' Contributions to Space Exploration",
+            "The Possibility of Wormholes",
+            "The Impact of Climate Change on Astronomical Observations"
+        ]
+    },
+    {
+        "context": "Virtual Reality (VR) and Augmented Reality (AR)",
+        "topics": [
+            "Advantages of VR over AR in gaming",
+            "Impact of VR on mental health",
+            "Potential applications of AR in education",
+            "Comparison of Oculus and Vive VR headsets",
+            "The future of remote work with AR",
+            "Security concerns in VR social platforms",
+            "Most popular VR games of the year",
+            "AR-powered shopping experiences",
+            "The role of VR in therapy and treatment",
+            "The potential of AR in the healthcare industry",
+            "Ethical considerations in VR content creation"
+        ]
+    },
+    {
+        "context": "Wearable Technology",
+        "topics": [
+            "Benefits of Wearable Devices for Fitness Tracking",
+            "Wearable Technology for Medical Condition Diagnosis",
+            "The Impact of Wearable Devices on Mental Health",
+            "Wearable Technology for Sports Performance Enhancement",
+            "Comparing Smartwatches Across Different Brands",
+            "Wearable Devices for Tracking Sleep Patterns",
+            "Wearable Technology for Elderly Care",
+            "The Future of Augmented Reality in Wearable Devices",
+            "Security Concerns in Wearable Devices and Data Privacy",
+            "Wearable Technology for Tracking Nutrition and Diet",
+            "The Role of Wearable Devices in Reducing Stress Levels"
+        ]
+    },
+    {
+        "context": "Youth and Community Services",
+        "topics": [
+            "Benefits of After-School Programs for Teens",
+            "Effective Strategies for Dealing with Bullying",
+            "The Importance of Mental Health Awareness in Schools",
+            "Community Engagement through Volunteer Work",
+            "The Impact of Social Media on Teenagers' Self-Esteem",
+            "Resources for Supporting At-Risk Youth",
+            "Developing Leadership Skills in Young People",
+            "The Role of Mentorship in Shaping Youth Development",
+            "Addressing Substance Abuse in Young Communities",
+            "Creating Safe Spaces for LGBTQ+ Youth"
+        ]
+    },
+    {
+        "context": "Zoology and Wildlife Conservation",
+        "topics": [
+            "Habitat destruction and its impact on endangered species",
+            "The role of climate change in species migration patterns",
+            "The ethics of zoos and wildlife captivity",
+            "Human-wildlife conflict and coexistence strategies",
+            "The impact of invasive species on native ecosystems",
+            "Conservation efforts for charismatic megafauna (e.g. elephants, pandas, lions)",
+            "The importance of preserving biodiversity hotspots",
+            "The effectiveness of reintroduction programs for extinct species",
+            "The role of wildlife corridors in connecting fragmented habitats",
+            "The relationship between wildlife trafficking and organized crime"
+        ]
+    }
+]
